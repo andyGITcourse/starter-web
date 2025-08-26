@@ -10,6 +10,7 @@ Come detto sopra, un file di prova
 programma sempklice scopiazzato da web
 
 ## How To Contribute
+duplicate questo repo e fate i complimenti
 
 ### Copyright
 
