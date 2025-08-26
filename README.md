@@ -10,3 +10,7 @@ Come detto sopra, un file di prova
 programma sempklice scopiazzato da web
 
 ## How To Contribute
+
+### Copyright
+
+corso GIT 2014
