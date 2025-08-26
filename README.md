@@ -13,4 +13,4 @@ programma sempklice scopiazzato da web
 
 ### Copyright
 
-corso GIT 2014
+corso GIT 2014 fatto nel 2025
