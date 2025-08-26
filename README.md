@@ -4,8 +4,9 @@ Questo e' un file di esempio per corso git
 Esempio per mostrare varie parti di un repo GIT
 
 ## Purpose
-Sample website with plenty of files for demos
+Come detto sopra, un file di prova
 
 ## DEPLOYMENT
+programma sempklice scopiazzato da web
 
 ## How To Contribute
